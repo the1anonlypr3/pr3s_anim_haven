@@ -13,8 +13,8 @@
 <br>
 <br> 
 to-do list:
- - terminal-themed anim pack
- - damn commissions!
- - mess around with passport photos
- - git gud
+ <br>- terminal-themed anim pack
+ <br>- damn commissions!
+ <br>- mess around with passport photos
+ <br>- git gud
  <br>\-----------------------------------------------/
