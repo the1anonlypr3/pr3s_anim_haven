@@ -11,4 +11,10 @@
 
 <h3>thanks for reading, and goodbye. :)</h3>
 <br>
-\-----------------------------------------------/
+<br> 
+to-do list:
+ - terminal-themed anim pack
+ - damn commissions!
+ - mess around with passport photos
+ - git gud
+ <br>\-----------------------------------------------/
