@@ -9,10 +9,23 @@
 
 <br>
 
+<h1>// who the hell is this kid? where even is his art?</h1>
+<p>i've contributed sprites to the flipper and ghostesp's flappy bird, 25+ assets to <a href="https://github.com/jblanked/FlipWorld">flipworld</a>, and created the momentumFW updating symbol with the cute little yappybara. i've also made an asset pack for <a href="rabbit-labs.com">rabbit-labs</a>, among other random personal asset packs. </p>
+
+<br>
+
 <h1>// this repo wouldn't exist without some people..</h1>
 <li>my half babysitter/mentor, <a href="https://github.com/kuronons">kuronons</a>, was the one that kicked off the idea of this repo along with teaching me a lot of things about art in general that are invaluable to me to this day. i'll forever hold his teachings in my creations and my ❤️.</li>
 <li>blepdoge, the champion that dm'd me aseprite portable one day LMFAO (legally feds..) without him, my art wouldn't be anywhere near where it is today. aseprite helps me out so so much oh my days</li>
 <li><a href="https://www.youtube.com/@TalkingSasquach">talkingsasquach</a>, the goat that originally orignally taught how asset packs work (with his amazing videos!)</li>
+
+<br>
+
+<h1>to-do list!</h1>
+<li>try out active frames</li>
+<li>actually make that terminal animation pack</li>
+<li>maccas anim pack lmao</li>
+<li>PR the silly momentum site repo</li>
 
 <br>
 
