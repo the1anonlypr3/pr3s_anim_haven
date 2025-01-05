@@ -22,10 +22,10 @@
 <br>
 
 <h1>to-do list!</h1>
-<li>try out active frames</li>
+<del><li>try out active frames</li></del>
 <li>actually make that terminal animation pack</li>
 <li>maccas anim pack lmao</li>
-<li>PR the silly momentum site repo</li>
+<del><li>PR the silly momentum site repo</li></del>
 
 <br>
 
