@@ -26,6 +26,7 @@
 <li>actually make that terminal animation pack</li>
 <li>maccas anim pack lmao</li>
 <del><li>PR the silly momentum site repo</li></del>
+<li>ADD PREVIEWS DAMN YOU KURONONS 😭😭😭</li>
 
 <br>
 
