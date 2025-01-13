@@ -9,6 +9,8 @@
 
 </details>
 
+<h1>now available on the <a href="https://momentum-fw.dev/asset-packs">momentum asset pack website!</a> big thanks to willyJL <3</h1>
+
 <br>
 
 <h1 align=center>made with not as much love by <a href="https://github.com/the1anonlypr3">pr3</a>.</h1>
