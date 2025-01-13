@@ -34,4 +34,6 @@ https://github.com/user-attachments/assets/b88fcab1-e50e-4640-ac16-c7df5922ea91
 
 </details>
 
+<h1>now available on the <a href="https://momentum-fw.dev/asset-packs">momentum asset pack website!</a> big thanks to willyJL <3</h1>
+
 <h1 align= "center">made with ❤️ by <a href="https://github.com/the1anonlypr3">pr3</a>. hope you enjoy!</h1>
